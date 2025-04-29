@@ -1,7 +1,7 @@
 
 # 📝 Todo App
 
-A simple and responsive Todo App built with React Native. This application allows users to add, delete, mark, and filter todos to keep track of daily tasks.
+A simple and responsive Todo App built with React . This application allows users to add, delete, mark, and filter todos to keep track of daily tasks.
 
 ---
 
